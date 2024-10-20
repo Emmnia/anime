@@ -12,6 +12,6 @@ modalClose.addEventListener('click', () => {
 });
 
 
-modalInput.addEventListener('change', () => {
+modalInput.addEventListener('input', () => {
     console.log(modalInput.value);
 });
