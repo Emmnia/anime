@@ -4,7 +4,7 @@
          "id": 0,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d8f8713a66a2250991870.jpg",
          "title": "Доктор Стоун",
-         "original-title": "Dr. Stone",
+         "original_title": "Dr. Stone",
          "ganre": "Приключения",
          "tags": [
             "Приключения",
@@ -20,7 +20,7 @@
          "id": 1,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d8f8713a66a2250991870.jpg",
          "title": "Доктор Стоун: Рюсуй",
-         "original-title": "Dr. Stone: Ryuusui",
+         "original_title": "Dr. Stone: Ryuusui",
          "ganre": "Приключения",
          "tags": [
             "Приключения",
@@ -36,7 +36,7 @@
          "id": 2,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5c108bcfbc5a7976547362.jpg",
          "title": "О моем перерождении в слизь",
-         "original-title": "Tensei shitara Slime Datta Ken",
+         "original_title": "Tensei shitara Slime Datta Ken",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -51,7 +51,7 @@
          "id": 3,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ccc63a05fb23958389516.jpg",
          "title": "Дороро",
-         "original-title": "Dororo",
+         "original_title": "Dororo",
          "ganre": "История",
          "tags": [
             "История",
@@ -67,7 +67,7 @@
          "id": 4,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5c390703e6b47898661392.jpg",
          "title": "Обещанный Неверленд",
-         "original-title": "Yakusoku no Neverland",
+         "original_title": "Yakusoku no Neverland",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -83,7 +83,7 @@
          "id": 5,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/manga/images/63f85f1fe17ef879102188.jpg",
          "title": "Черный клевер",
-         "original-title": "Black Clover",
+         "original_title": "Black Clover",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -98,7 +98,7 @@
          "id": 6,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ab1714ebe79b821273421.jpg",
          "title": "Невеста чародея",
-         "original-title": "Mahoutsukai no Yome",
+         "original_title": "Mahoutsukai no Yome",
          "ganre": "Фэнтези",
          "tags": [
             "Сёнен",
@@ -113,7 +113,7 @@
          "id": 7,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5a3fbef2671f5.jpg",
          "title": "Наруто ",
-         "original-title": "Naruto",
+         "original_title": "Naruto",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -128,7 +128,7 @@
          "id": 8,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d8f871a5e757670575093.jpg",
          "title": "Пламенная бригада пожарных",
-         "original-title": "Enen no Shouboutai",
+         "original_title": "Enen no Shouboutai",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -143,7 +143,7 @@
          "id": 9,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5a8b144777b57658716956.jpg",
          "title": "Бездомный бог",
-         "original-title": "Noragami",
+         "original_title": "Noragami",
          "ganre": "Приключения",
          "tags": [
             "Приключения",
@@ -158,7 +158,7 @@
          "id": 10,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5f02cc3f2c7b7993254684.jpg",
          "title": "Игра Дарвина",
-         "original-title": "Darwin's Game",
+         "original_title": "Darwin's Game",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -173,7 +173,7 @@
          "id": 11,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5a343578300e7.jpg",
          "title": "Темный дворецкий",
-         "original-title": "Kuroshitsuji",
+         "original_title": "Kuroshitsuji",
          "ganre": "История",
          "tags": [
             "История",
@@ -189,7 +189,7 @@
          "id": 12,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5e8a99bb8cc6b055355644.jpg",
          "title": "Глейпнир",
-         "original-title": "Gleipnir",
+         "original_title": "Gleipnir",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -204,7 +204,7 @@
          "id": 13,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/651527116457a455273130.jpg",
          "title": "Стальной алхимик",
-         "original-title": "Fullmetal Alchemist",
+         "original_title": "Fullmetal Alchemist",
          "ganre": "Приключения",
          "tags": [
             "Приключения",
@@ -220,7 +220,7 @@
          "id": 14,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/606be686c2f63301155415.jpg",
          "title": "Атака титанов",
-         "original-title": "Shingeki no Kyojin",
+         "original_title": "Shingeki no Kyojin",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -235,7 +235,7 @@
          "id": 15,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ab170d351312102639546.jpg",
          "title": "Ван Пис",
-         "original-title": "One Piece",
+         "original_title": "One Piece",
          "ganre": "Приключения",
          "tags": [
             "Приключения",
@@ -251,7 +251,7 @@
          "id": 16,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d1a581bb5751690417477.jpg",
          "title": "Тетрадь смерти",
-         "original-title": "Death Note",
+         "original_title": "Death Note",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -266,7 +266,7 @@
          "id": 17,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5e84cd60b6282406535190.jpg",
          "title": "Башня Бога",
-         "original-title": "Kami no Tou",
+         "original_title": "Kami no Tou",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -282,7 +282,7 @@
          "id": 18,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ca8e16ebd092601180598.jpg",
          "title": "Клинок, рассекающий демонов",
-         "original-title": "Kimetsu no Yaiba",
+         "original_title": "Kimetsu no Yaiba",
          "ganre": "История",
          "tags": [
             "История",
@@ -298,7 +298,7 @@
          "id": 19,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d8f86db39318930257463.jpg",
          "title": "Сага о Винланде",
-         "original-title": "Vinland Saga",
+         "original_title": "Vinland Saga",
          "ganre": "История",
          "tags": [
             "История",
@@ -314,7 +314,7 @@
          "id": 20,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/662d1d818b5cc999108095.jpg",
          "title": "Ворон не выбирает господина",
-         "original-title": "Karasu wa Aruji wo Erabanai",
+         "original_title": "Karasu wa Aruji wo Erabanai",
          "ganre": "История",
          "tags": [
             "История"
@@ -328,7 +328,7 @@
          "id": 21,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d03d83d33ba2222302542.jpg",
          "title": "Восхождение героя щита",
-         "original-title": "Tate no Yuusha no Nariagari",
+         "original_title": "Tate no Yuusha no Nariagari",
          "ganre": "Фэнтези",
          "tags": [
             "Фэнтези",
@@ -343,7 +343,7 @@
          "id": 22,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5e2f01ae37725790390079.jpg",
          "title": "Убийца гоблинов",
-         "original-title": "Goblin Slayer",
+         "original_title": "Goblin Slayer",
          "ganre": "Фэнтези",
          "tags": [
             "Фэнтези"
@@ -357,7 +357,7 @@
          "id": 23,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/61b9f3180fda1437926022.jpg",
          "title": "Арифурэта: Сильнейший ремесленник в мире",
-         "original-title": "Arifureta Shokugyou de Sekai Saikyou",
+         "original_title": "Arifureta Shokugyou de Sekai Saikyou",
          "ganre": "Фэнтези",
          "tags": [
             "Фэнтези",
@@ -372,7 +372,7 @@
          "id": 24,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/6159ce4b976c1480843389.jpg",
          "title": "Реинкарнация безработного",
-         "original-title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+         "original_title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
          "ganre": "Фэнтези",
          "tags": [
             "Фэнтези",
@@ -387,7 +387,7 @@
          "id": 25,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5e146c0e398d3512268183.jpg",
          "title": "Паразит",
-         "original-title": "Kiseijuu: Sei no Kakuritsu",
+         "original_title": "Kiseijuu: Sei no Kakuritsu",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика"
@@ -401,7 +401,7 @@
          "id": 26,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ab171b09fa5c770822816.jpg",
          "title": "Созданный в Бездне",
-         "original-title": "Made in Abyss",
+         "original_title": "Made in Abyss",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика",
@@ -417,7 +417,7 @@
          "id": 27,
          "image": "hhttps://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d8f86ffc3943182555442.jpg",
          "title": "Мастерство копа",
-         "original-title": "Cop Craft",
+         "original_title": "Cop Craft",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика",
@@ -432,7 +432,7 @@
          "id": 28,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5ab1717750326828280329.jpg",
          "title": "Смертельный укус",
-         "original-title": "Killing Bites",
+         "original_title": "Killing Bites",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика"
@@ -446,7 +446,7 @@
          "id": 29,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5decd6212fc51005453894.jpg",
          "title": "Небесный замок Лапута",
-         "original-title": "Tenkuu no Shiro Laputa",
+         "original_title": "Tenkuu no Shiro Laputa",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика",
@@ -462,7 +462,7 @@
          "id": 30,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5daa9353c4005928033534.jpg",
          "title": "Аватар короля: Вершина славы",
-         "original-title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
+         "original_title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
          "ganre": "Приключения",
          "tags": [
             "Приключения"
@@ -476,7 +476,7 @@
          "id": 31,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5a343578300e7.jpg",
          "title": "Темный дворецкий",
-         "original-title": "Kuroshitsuji",
+         "original_title": "Kuroshitsuji",
          "ganre": "Сёнен",
          "tags": [
             "Сёнен",
@@ -492,7 +492,7 @@
          "id": 32,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/64a44110252fe851868925.jpg",
          "title": "Бродяга Кэнсин",
-         "original-title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+         "original_title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
          "ganre": "История",
          "tags": [
             "История",
@@ -508,7 +508,7 @@
          "id": 33,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5a662e7da753f.jpg",
          "title": "Токийский гуль",
-         "original-title": "Tokyo Ghoul",
+         "original_title": "Tokyo Ghoul",
          "ganre": "Детектив",
          "tags": [
             "Детектив",
@@ -523,7 +523,7 @@
          "id": 34,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/character/5c59b2b53c449760195452.jpg",
          "title": "Ад Данте",
-         "original-title": "Dante's Inferno",
+         "original_title": "Dante's Inferno",
          "ganre": "Фэнтези",
          "tags": [
             "Фэнтези"
@@ -537,7 +537,7 @@
          "id": 35,
          "image": "https://animego.org/media/cache/thumbs_300x420/upload/anime/images/5d9f713c0f8c6913796980.jpg",
          "title": "Жизнь без оружия",
-         "original-title": "No Guns Life",
+         "original_title": "No Guns Life",
          "ganre": "Фантастика",
          "tags": [
             "Фантастика"

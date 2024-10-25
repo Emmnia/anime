@@ -1,4 +1,6 @@
 const categoriesData = () => {
+    const preloader = document.querySelector('.preloder');
+
     const renderGenreList = (genres) => {
         const dropdownBlock = document.querySelector('.header__menu .dropdown');
 
@@ -8,6 +10,14 @@ const categoriesData = () => {
             `);
         });
     };
+
+    const renderBreadcrumb = (genre) => {
+        const breadcrumbsBlock = document.querySelector('.breadcrumb__links');
+        breadcrumbsBlock.insertAdjacentHTML('beforeend', `
+                <span>${genre}</span>
+            `);
+
+    }
 
 
     const renderAnimeList = (array, genres) => {
@@ -65,7 +75,11 @@ const categoriesData = () => {
             wrapper.querySelectorAll('.set-bg').forEach((element) => {
                 element.style.backgroundImage = `url(${element.dataset.setbg})`
             });
-        })
+        });
+
+        setTimeout(() => {
+            preloader.classList.remove('active');
+        }, 500);
     }
 
     const renderTopAnime = (array) => {
@@ -90,7 +104,6 @@ const categoriesData = () => {
         .then((data) => {
             const genres = new Set();
             const genreParams = new URLSearchParams(window.location.search).get("genre");
-            console.log(genreParams);
 
             data.forEach((item) => {
                 genres.add(item.ganre);
@@ -98,6 +111,7 @@ const categoriesData = () => {
 
             if (genreParams) {
                 renderAnimeList(data, [genreParams]);
+                renderBreadcrumb(genreParams);
                 document.querySelector('.btn__all').style.display = 'none';
             } else {
                 renderAnimeList(data, genres);
